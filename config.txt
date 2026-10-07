@@ -1,0 +1,2 @@
+net.youssfi.dao.DaoImpl
+net.youssfi.metier.metierImpl
